@@ -1,8 +1,13 @@
-const heeSooFuck = {
-  name: "Heesoo",
-  age: 31,
-  gender: "Male",
-  isHandsome: true
-};
+function sayHello(heesoo, una) {
+  console.log(
+    "Hello Shit!",
+    heesoo,
+    "fuck the shit",
+    una,
+    "years of age.",
 
-console.log(heeSooFuck.gender);
+    "olaliggolali"
+  );
+}
+
+sayHello("una", 10);
